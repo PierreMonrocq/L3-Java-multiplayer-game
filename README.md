@@ -5,7 +5,7 @@ The game includes several items such as weapons (guns, bombs, mines), regenerati
 Players can move across the map, the goal is to be the last survivor.
 
 This project implements several design patterns, such as Proxy (to hide some objects between players) or singleton to manage the creation of objects and resources
-Terrain generation is procedural and configurable, the number of players and AI is selectable via a menu or the config file. This project implements several design patterns, such as Proxy (to hide some objects between players) or singleton to manage the creation of objects and resources.
+Terrain generation is procedural and configurable, the number of players and AI is selectable via a menu or the config file.
 
 The objective was mainly to focus on the implementation via an MVC model, the GUI and the gameplay of the game can be greatly improved.
 
